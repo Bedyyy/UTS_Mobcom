@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Mata Kuliah Ilmu Komputer</string>
+    <string name="matkul1">Basis Data</string>
+    <string name="matkul2">Dasar Dasar Pemrogrmaman</string>
+    <string name="matkul3">Desain Pemrograman Berorientasi Objek</string>
+    <string name="matkul4">Interaksi Manusia Komputer</string>
+    <string name="matkul5">Komputer Grafik</string>
+    <string name="matkul6">Machine Learning</string>
+    <string name="matkul7">Sistem Operasi</string>
+    <string name="matkul8">Pengantar Kecerdasan Buatan</string>
+    <string name="matkul9">Perancangan dan Pemrograman Web</string>
+    <string name="matkul10">Struktur Data dan Algoritman</string>
+    <string name="display_sks">3 sks</string>
+</resources>
